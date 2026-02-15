@@ -30,11 +30,7 @@ The project simulates a real-world contact management system with easy navigatio
 - Interactive elements for viewing details  
 - Smooth navigation between sections  
 
----
 
-## 📸 Preview
-
-> Add screenshots of the project here
 
 ---
 
